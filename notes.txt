@@ -1,0 +1,16 @@
+********** how to data science? ************
+1. come up with a question you want to answer.
+2. form a hypothesis and determine the data you need.
+3. collect the data
+4. clean and organize your data
+5. explore your data
+6. build models to analyze the data
+7. communicate your findings
+8. ensure that your process and findings are reproducible.
+
+*************************************************************
+
+https://theproductmanager.com/topics/best-product-management-blogs/
+product management blogs best ones
+
+
