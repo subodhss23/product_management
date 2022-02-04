@@ -1,0 +1,74 @@
+
+===========================
+Product manager activities
+===========================
+
+
+1. Plan
+    - market research and sizing
+    - portfolio
+    - competitive anlysis
+    - vision
+    - goal
+    - business model canvas
+
+2. Define and validate
+    - customer research
+    - personas and segments
+    - MVP testing
+    - forecast model
+    - exec signoff
+    - build, buy, acquire analysis
+
+3. Build
+    - roadmap
+    - backlog
+    - user stories
+    - accptance criteria
+    - UAT
+    - status update
+    - wireframe (UX)
+    - [Usability]
+    - [ScrumMaster]
+
+4. Aquire
+    - In-product marketing
+    - lunch plan
+    - sales support
+    - marketing support
+    - offer testing
+
+5. Retain and support
+    - onboarding
+    - reengagement
+    - customer support
+    - customer feedback
+    - end-of-life
+
+6. Measure
+    - product analysis
+    - product analytics
+    - customer data
+    - A/B optimization testing
+    - financial forecasting
+
+
+(This is a product development cycle, a loop.)
+
+------------------------------------------------------
+Interaction between teams:-
+----------------------------------------------------
+
+- sales and marketing, design and engineering
+- execs, operations
+
+but a technical product manager focus between:-
+    focus internally:-
+    - design and engineering
+
+- acts as communication center to inspire and keep all adjacent teams in loop and work on shared goals, they want PM to communicate vision and road map
+- act as a represenative of a team when they are not in the room, make sure their desire and objections are heard, and follow up
+- facilatitate the interaction between teams when needed, and share the required information
+
+
+
