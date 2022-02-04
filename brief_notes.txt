@@ -70,5 +70,130 @@ but a technical product manager focus between:-
 - act as a represenative of a team when they are not in the room, make sure their desire and objections are heard, and follow up
 - facilatitate the interaction between teams when needed, and share the required information
 
+----------------------------------------------------------------
+
+- corporate development
+- business development
 
 
+- updates
+- roadmap
+- market intelligence
+- reporting (KPI)
+
+
+- goal focus (long term, short term)
+- no negative surprises (warnings are being channeled through 1 on 1)
+- over-communicate in a crisis
+- share praise
+
+* working with teams (such as sourcing):-
+    - clear requirements and priorities
+    - alternatives
+    - notice
+
+* working with user experience and design:-
+    - UX desing iceberg
+        - visual design (what most people see and react to)
+        - interaction design
+        - information architecture
+        - conceptual design
+
+    - autonomy
+    - data, segments
+    - early involvement
+    - style guide
+    - participation
+    - balanced feedback
+
+* best practices for working with engineering team
+    - dev
+    - test
+    - tech and devops
+    - program management
+    - project management
+    
+    - how to work with engineering team
+        - don't over commit
+        - what and why
+        - transparency and vision
+        - shre feedback
+        - encourage learning
+        - collabarate with head of engineering(for feedback from team)
+        - increase team productivity 
+
+    = program manager
+        - scrum master
+        - tech specs
+        - eng team assignments
+        - external partners
+        - tech documentation
+
+    = project maanger
+        - schedule, milestone
+        - assign follow up
+        - status communication
+        - budget
+        - change control
+    
+    -  process efficiency
+
+-----------------------------------------------
+* sales and marketing
+---------------------------------------------
+- product marketing
+    - messaging
+    - packaging
+    - launch planning
+    - pricing
+    - sales channel and marketing support
+    - market research
+
+    - clear priorities(dates, deadlines)
+    - sales budget
+    - focus on current product rather than upcoming
+    - pitches
+    - research processes
+    - materials
+    - internal FAQs
+
+----------------------------------------------------
+* operations
+---------------------------------------------------
+- includes
+    - finance
+    - business analytics
+    - customer service
+    - supply chain
+    - legal
+
+    - finance
+        - capture data
+        - material revenue or expense
+        - get approvals
+
+    - business analytics
+        - requirement
+        - double check data
+        - release notes
+        - external dates
+   
+    - customer service/success
+        - heads up on known issues
+        - bug budget
+        - feature requests
+        - respond directly
+
+    - supply chain
+        - forecasts
+        - reduce complexity
+        - launch timing
+   
+    - legal
+        - policies, terms & EULA
+        - patents, trademarks
+        - license and contracts
+        - marketing terms
+        
+        
+    
