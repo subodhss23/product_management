@@ -196,4 +196,5 @@ but a technical product manager focus between:-
         - marketing terms
         
         https://www.youtube.com/watch?v=lF70OuNWdrM
+        https://github.com/ProductHired/open-product-management#becoming-a-product-guru
     
