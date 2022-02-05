@@ -195,8 +195,14 @@ but a technical product manager focus between:-
         - license and contracts
         - marketing terms
         
+<<<<<<< HEAD
         
  - develop skills for professional development plan
   
 https://www.youtube.com/watch?v=kzVvjKLdAbk
 https://www.youtube.com/watch?v=lF70OuNWdrM 
+=======
+        https://www.youtube.com/watch?v=lF70OuNWdrM
+        https://github.com/ProductHired/open-product-management#becoming-a-product-guru
+    
+>>>>>>> b84118e918dcb8d0449d51d78e7bb964d350bdde
