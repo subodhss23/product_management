@@ -1,0 +1,124 @@
+
+
+7 types of competitive analysis frameworks
+
+1. SWOT Analysis
+2. Porter's Five Forces
+3. Strategic Group Analysis
+4. Growth-Share Matrix
+5. Preceptual Mapping   
+6. Business Model Canvas
+7. Customer Journey Map
+
+
+------------------------------------------------------------------------
+
+1. SWOT Analysis
+
+    - Strength
+        - internal factors that provide benefits, like a highly trained staff.
+
+    - Weakness
+        - internal factor that provide benefits, like a high trained staff.
+
+    - Opportunities
+        - external factors that pose opportunities, like high demand for a product offering.
+
+    - Threat
+        - external factors that pose challenges, like an increase in the cost of supplies.
+
+-----------------------------------------------------------------------------------
+
+2. Porter's five force
+
+    This competitive framework examines the five market forces in any given industry, including:-
+        a. Intensity of competitive rivalry
+        b. Threat of new entrants
+        c. Bargaining power of new buyers
+        d. Barganing power of suppliers
+        e. Threat of substitues
+
+---------------------------------------------------------------------------------------
+
+3. Strategic group analysis
+
+    - organizes competitors into groups based on similarity of strategy.
+    - group competitors by their marketing tactics, pricing strategic, or range of offerings.
+    - place your own company into the analysis to get a better sense.
+
+---------------------------------------------------------------------------------------
+
+4. Growth-share matrix
+
+    - The growth-share matrix classifies your company's products against the competitive landscape.
+    
+    - A growth-share matrix is a chart divided up into four quadrants to classify products or business units into:-
+        a. Stars
+            - products with high growth and high market share, Invest more in these.
+        b. Question marks
+            - products (usually new ones) with high growth, but low market shares. Decide whether to invest more (if convinced it will become a star)
+                or give up on it.
+        c. Cash cows
+            - products with low growth but high market share that are usually used to fund investment in stars.
+        d. Pets
+            - products with low growth and low market share. Decide whether to reposition or give up on it.
+
+        * for big organizations
+
+-----------------------------------------------------------------------------------------------------
+
+5. Perceptual mapping
+
+    - positioning mapping, visualized the perception of a company and its competitors on a plot graph.
+    - two factors to use for comparision:-
+        - like perceived quality and price.
+
+--------------------------------------------------------------------------------------------------------
+
+6. Business model canvas
+
+    - A busines model canbas is a single analysis that's divided up into nine elements:
+        a) customer segements:-
+            - who are the customers?
+        b) Value propositions:-
+            - Why do customers buy/use the proposition?
+        c) Channels:-
+            - How are propositions promoted, sold, and delivered?
+        d) Customer relationships:-
+            - How is the customer treated throughout their buyer journey?
+        e) Revenue streams:-
+            - How is revenue earned?
+        f) Key activities:-
+            - What unique strategies does the business use to deliver its propositions?
+        g) Key resources:-
+            - What unique strategic assets are required to compete?
+        h) Key partnerships:-
+            - What can the business outsource so it can focus on its key activities?
+        i) Cost structure:-
+            - What are the major cost drivers and how are they linked to revenue?
+
+-----------------------------------------------------------------------------------------------------
+
+7. Customer jouney map
+
+    - visual story of customers' interactions with a brand.
+    - all customer channels are mapped out - i.e., a company's website, social channels, paid media, newsletters, email support, phone service,
+        and face-to-face service.
+
+    - Customer journeys can then be mapped across these channels for each buyer persona.
+    -  The customer experience at each touchpoint should be tacked on to the map, including key engagement metrics the customer hits.
+    -  Below that, add how the brand responds to address the customers’ concerns.
+    - Finally, jot down what opportunities exist to improve the experience at each channel.
+
+
+
+=========================================================================================================================
+
+* How to create a competitive analysis in five setps?
+===========================================================================================================
+
+1. Analyze competitor's digital footprint
+2. Map out your market landscape (traffic and engagement data)
+3. Analyze search interest ( traffic shares, measure the search volume of traffic, see the overall search trend over time, analyze which
+                                competitor is winnning digital market share).
+4. Understand traffic and engagement metrics (understand optimization like SEO, their digital marketing strategy)

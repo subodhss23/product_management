@@ -1,0 +1,35 @@
+
+-------------------------------------------------------------------------------------------------
+1.
+
+Step 1: Learn product management: If you do not have knowledge of fundamental skills of a PM then no company would want to hire you. 
+Have a good understanding of user research, execution, wireframing, problem solving, stakeholder management and communication.
+
+You can follow a structured course or curriculum to crack this, it should take you around 3 months to do this well. 
+You’ll be ahead of 90% of the candidates if you do this well.
+
+Step 2: Choose the industry you want to work in: Based on your educational background, work experience, or interest, pin-point a sector to work on. 
+It could be ed-tech, fin-tech, food-tech, health-tech, SAAS, crypto, or anything.
+
+Do thorough research of all the happenings of this industry, different players etc. You can use frameworks such as porter 5 forces, SWOT analysis to do this. 
+(You’ll learn these frameworks in Step 1)
+
+Step 3: List companies: Make a list of ~10 companies in the sector where you would want to work. 
+It will be much better if these companies are small or mid-sizes so that you can reach out to decision makers via email.
+
+Step 4: Add value: Now suppose that you were a product manager at these companies, how would you help them in your first 3 months? 
+Do a product tear down, do some user research, add market research, come up with feature improvements, and build a solid case of how you can add value to the product and team.
+
+Create a well-written guide/presentation (Better if you could create MVPs). Put all your efforts and learning here. 
+If you have done steps 1 and 2 wholeheartedly then you will do a great job in this step.
+
+Step 5: Reach out to the company’s decision-makers with your analysis: Now find emails of decision makers in the company (founders, CEO, CPO, CTO etc.) 
+and send them your analysis, along with a good introduction and why are you passionate about working with them.
+
+Step 5.1: Repeat for other companies: Now follow up with these people for up to 3 times (because people can actually miss things), 
+and iterate this process for other companies in the list. I can assure you that if you put in enough efforts, you are likely to get replies from many.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
