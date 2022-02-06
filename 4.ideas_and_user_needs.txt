@@ -1,0 +1,50 @@
+
+
+1. Ideas and user needs
+        
+    - features, functionality, comes from somewhere
+    - all of them were idea on someone's head or need
+
+    - getting ideas and requirement from all over the place.
+    - somewhere like sales or marketing team, company executives,
+    - which ones are good and which ones are bad,
+    - why are they good ideas, and when is the best time to work on the "good idea"?
+    
+------------------------------------------------------------------------------------------
+
+2. Where ideas come from as a PM?
+
+    - as a PM entire job revolves around deciding what you need to do next
+    - this requires a list of possible features to build and also the method of deciding which of those is the most important
+    - prioritization and epics
+    - let's focus on getting the list of things 
+    
+    - where do ideas comes from?
+        - every company has long list of request and feature idea
+        - need to make sure there are plenty of ideas on backlog,
+        - ideas come from everywhere, collect and organize as a PM
+        - comes from 4 main places:-
+            - EMUC
+            - Employee, Metrics, Users, Clients(B2B)
+            
+------------------------------------------------------------------------------------------------------
+
+3. Getting to the real user needs
+
+    - once we have ideas, feature request from EMUC(employee, metrics, users, clients) PM need to find solution for a reasonable problem.
+    - is this solving an actual problem?
+    - can this have unintended side effects?
+    - ask what is being this request?
+    - ask why? at least three times.
+
+----------------------------------------------------------------------------------------------------------
+
+4. Users vs customers 
+
+    - In B2B customers might not be users.
+   
+    - Feedback
+        1. Macro-level
+            (marketing directors)
+        2. Everyday users
+        
