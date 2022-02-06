@@ -10,9 +10,11 @@
         - disciple of PM
         - finding the job
         - skills (MVP,wireframing)
-        
+-------------------------------------------------------------------------------        
 
 2. First things to do
+
+--------------------------------------------------------------------------------
 
 3. Four phase of product lifecycle
     a) introduction
@@ -39,4 +41,67 @@
     
     - To understand what phase the product is find the revenue it is generating.
 
+------------------------------------------------------------------------------------
+
+4. Getting deeper into the product development process
+    - product development process
+    
+    - Company
+        - Conceive, plan, develop, iterate, launch, steady state, maintain or kill
+
+    a. Conceive
+        - collect user problem, brain storm solutions, 
+        - identify focus areas
+        - biggest source of idea comes from inside of company from the employees of the company themselves
+    
+    b. Plan
+        - doing market research, research on the above ideas,
+        - build business case for montization,
+        - customer interview and see if people find the idea is really a problem
+        - roadmap of what we can make, how long will it take, and what point we should have particular feature
+        
+    c. Develop
+        - timelines, write features, specks, user stories,
+        - discuss with engineering estimation of time taken to develop,
+        - before development requirement should be set and should not be changed before validation of MVP
+    
+    d. Iterate
+        - finish MVP or prototype
+        - early feedback from users,
+        - keep testing with alpha, beta, 
+
+    e. Launch
+        - work with marketing, legal, PR, sales,
+        - send out to public
+
+    f. Steady state 
+        - collecting metrics(heavy), how people are using it, 
+        - analyse, optimize with metrics, maximum return for investment,
+        - heavy marketing and sales,
+        - asses on how likely are we moving further with this product
+
+    g. Maintain or kill
+        - descision should be made with data
+        - how frequent people are buying, using it, are we competative in market with this product,
+        - how much money are we spending to maintain it vs money we are generating
+        - might not fit company vision anymore
+       
+        - If decided to kill
+            - sunsetting a product
+            - end of life plan
+            - let customer know so that they can back up data or find alternatives
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+5. Lean product development
+
+    - build fast, 
+    - just about building something intelligently without using the resource until needed.
+
+---------------------------------------------------------------------------------------------------
+
+5. Agile
+6. Scrum
+7. Kanban
+8. Waterfall
 
