@@ -204,5 +204,10 @@ https://www.youtube.com/watch?v=lF70OuNWdrM
 =======
         https://www.youtube.com/watch?v=lF70OuNWdrM
         https://github.com/ProductHired/open-product-management#becoming-a-product-guru
-    
+
+
+https://startinfinity.com/product-management-framework
+https://fourweekmba.com/product-development-frameworks/
+https://davidolszewski.com/top-16-frameworks-every-product-manager-wants-to-know
+https://www.product-frameworks.com/    
 >>>>>>> b84118e918dcb8d0449d51d78e7bb964d350bdde
