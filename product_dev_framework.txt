@@ -1,0 +1,22 @@
+
+A practical template for product thinking
+
+
+User  ->   Market   ->  Solution    ->  Build
+
+    - user -> who are the users and what are their needs, wants?
+    - market -> how are the use cases being met today?
+    - solution -> what solution can we build that will address the gap?
+    - build -> build the solution.
+
+
+Team -> are we the right team?
+Measure -> How will we know if we are succeeding?
+Research -> Are the external factor favorable?
+Iteration -> Are we adapting at every step?
+
+https://www.product-frameworks.com/
+
+- has to be better 10x times than existing product.
+
+***** find problem, build the solution ***** 
